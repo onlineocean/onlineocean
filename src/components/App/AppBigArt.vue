@@ -90,7 +90,7 @@ export default {
       content: {
         title: 'Abstract 3D work content more than ever',
         owner: 'artstudio',
-        bid: '0.034 ETH',
+        bid: '0.034 NEAR',
         buyTitle: 'Buy now',
         likes:{
           count: 131,

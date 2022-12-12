@@ -195,7 +195,7 @@ export default {
       info:{
       },
       art:{
-        price: '20.034 ETH',
+        price: '20.034 NEAR',
         descr: 'Abstract 3D Content Art fdfds ee rwerew',
         owner: 'artstudio',
         dateOfCreate: '2021-10-21T22:53:30',
